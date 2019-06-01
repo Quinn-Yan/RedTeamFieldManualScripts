@@ -1,0 +1,1 @@
+get-wmiobject -list *network

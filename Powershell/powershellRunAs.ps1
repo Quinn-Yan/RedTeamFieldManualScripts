@@ -1,0 +1,1 @@
+$pw = converto-securestring -string "PASSWORD" -asplaintext -force;$pp = new-object -typename System.Management.Automation.PSCredential -argumentlist "DOMAIN\user", $pw; Start-Process Powershell -Credential $pp -ArgumentList `-noprofile -command &{Start-Process $fileexecutable -verb runas}'

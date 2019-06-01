@@ -1,0 +1,1 @@
+$ports=($port1,$port2,$port3);$ip="x.x.x.x";for each ($port in $ports) {try{$socket=NewObject System.Net.Sockets.TCPClient($ip,$port);}catch{};if ($socket -eq $NULL) {echp $ip":"$port" - Closed";}else{echo $ip":"$port" - Open";$socket = $NULL;}}

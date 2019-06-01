@@ -1,0 +1,1 @@
+get-help $command -examples

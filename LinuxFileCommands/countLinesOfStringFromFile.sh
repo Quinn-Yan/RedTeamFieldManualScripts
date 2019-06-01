@@ -1,0 +1,1 @@
+grep -c "$str" file

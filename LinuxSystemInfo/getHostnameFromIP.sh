@@ -1,0 +1,1 @@
+nbtstat -A $ip

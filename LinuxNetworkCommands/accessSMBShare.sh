@@ -1,0 +1,1 @@
+smb://$ip/share

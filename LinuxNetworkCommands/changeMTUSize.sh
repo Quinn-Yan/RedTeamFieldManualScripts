@@ -1,0 +1,1 @@
+ifocnfig eth# mtu $size

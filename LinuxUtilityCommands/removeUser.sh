@@ -1,0 +1,1 @@
+rmuser $username

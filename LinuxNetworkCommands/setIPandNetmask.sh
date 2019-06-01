@@ -1,0 +1,1 @@
+ifconfig eth# $ip/$cidr

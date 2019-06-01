@@ -1,0 +1,1 @@
+macchanger -m $mac $iface

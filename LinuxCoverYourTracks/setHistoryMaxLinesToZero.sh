@@ -1,0 +1,1 @@
+export HISTFILESIZE=0

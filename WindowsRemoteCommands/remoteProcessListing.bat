@@ -1,0 +1,1 @@
+tasklist /S $ip /v

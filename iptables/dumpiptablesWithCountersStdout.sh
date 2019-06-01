@@ -1,0 +1,1 @@
+iptables-save -c > $file

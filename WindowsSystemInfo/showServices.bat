@@ -1,0 +1,1 @@
+sc query state=all

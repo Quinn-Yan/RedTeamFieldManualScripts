@@ -1,0 +1,1 @@
+taskkill /PID $pid /F

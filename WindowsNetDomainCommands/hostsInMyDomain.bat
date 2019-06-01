@@ -1,0 +1,1 @@
+net view /domain:[MYDOMAIN]

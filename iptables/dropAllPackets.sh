@@ -1,0 +1,1 @@
+iptables -P INPUT DROP

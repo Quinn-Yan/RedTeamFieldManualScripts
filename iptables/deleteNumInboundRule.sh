@@ -1,0 +1,1 @@
+iptables -D INPUT $number
